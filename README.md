@@ -13,7 +13,7 @@ It is mainly Machine Learnings Project using Python -- Supervised, Semi-Supervis
 5. Support Vectors Machines
 6. K Means Clustering 
 7. Recommender Systems 
-8 TensorFlow and Keras
+8. TensorFlow and Keras
 
 -- Project Status: [Active]
 
