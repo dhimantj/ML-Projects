@@ -49,5 +49,5 @@ data processing/cleaning
 statistical modeling
 writeup/reporting
 
-(Contacts) : James A. Odendal PhD (https://github.com/jamesodendal/ML-Projects
+(Contacts) : James A. Odendal PhD https://github.com/jamesodendal/ML-Projects
 
