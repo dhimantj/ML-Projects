@@ -4,7 +4,7 @@ Repository of all ML Projects
 
 This Repository is a part of my online Data Science Portfolio.
 
-It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervised and Unsupervised Learning --
+It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervised and Unsupervised Learning -- TensorFlow and Keras still in early Phase!
 
 1. Linear Regression Project
 2. Logic Regression Project
@@ -13,6 +13,8 @@ It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervis
 5. Support Vectors Machines
 6. K Means Clustering 
 7. Recommender Systems 
+
+Ttill in early Phase!
 8. TensorFlow and Keras
 
 -- Project Status: [Active]
@@ -22,11 +24,11 @@ Project Intro/Objective
 The purpose of this project is for showcasing some of the Machine Learning skills to potential companies or possible project collaborators. 
 
 The main goal of this project is also to document my learning process for getting into Data Science and to use the code as reference for future projects. 
-The data is all publically availible dataset and the evaluations of the data is done based on a combination of online courses, books, kaggle references, and self data exploration. The main goal is predictive analytics but the its more of a road trip to predictive analytics by firstly exploring the data. The projects all follow the following process.
+The data is all publically availible dataset and the evaluations of the data is done based on a combination of online courses, books, kaggle references, and self data exploration. The main goal is predictive analytics using Machine Learning tools and techniques. 
 
 Step 1: Data collection/Open Data
 
-For my projects I am mainly skipping the collections and relying on pubically availible data. This does not mean that the data is clean, some data manipulation for the projects are still needed especially with respect to some parameters and the data requires quite some feature engineering.
+For my projects I am mainly skipping the collections and relying on pubically availible data. This does not mean that the data is clean, some data manipulation for the projects are still needed especially with respect to some parameters and the data requires quite some feature engineering. Machines like numerical data so one has to work around this issue doing some feature engineering. 
 
 
 Step 2: Data Exploration and Profiling
