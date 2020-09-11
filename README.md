@@ -10,26 +10,28 @@ It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervis
 
 Current and most active Projects!
 
-CLASSIFICATION PROJECT (Recent and still on going)
+1_LINEAR REGRESSION PROJECTS (Recent and still on going) - Most up to date!
 
-LINEAR REGRESSION PROJECTS (Recent and still on going) - Most up to date!
+2_CLASSIFICATION PROJECT (Recent and still on going)
 
-The Below Projects are in draft version and still need polishing! After completion it will move up to the CURRENT Projects!
 
-2. Logic Regression Project
 
-3. K Nearest Neighbors
+The Below Projects are in draft version and still need polishing! After completion it will move up to the CURRENT Projects and it will also be labelled!
 
-4. Decision Trees & Ransom Forest
+Logic Regression Project
 
-5. Support Vectors Machines
+K Nearest Neighbors
 
-6. K Means Clustering 
+Decision Trees & Ransom Forest
 
-7. Recommender Systems 
+Support Vectors Machines
+
+K Means Clustering 
+
+Recommender Systems 
 
 Still in early Phase!
-8. TensorFlow and Keras
+TensorFlow and Keras
 
 -- Project Status: [Active]
 
