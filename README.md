@@ -1,9 +1,6 @@
 # ML-Projects
 Repository of all ML Projects 
 
-All these projects are also in Google Colab link below:
-https://drive.google.com/drive/folders/18MhVFDuj5qV7GAFVKU06jl9YF23ghUl_?usp=sharing
-
 This Repository is a part of my online Data Science Portfolio.
 
 It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervised and Unsupervised Learning -- TensorFlow and Keras still in early Phase! Here are the current projects
