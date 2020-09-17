@@ -1,5 +1,9 @@
 # ML-Projects
-Repository of all ML Projects 
+Repository of all ML Projects:
+
+
+
+
 
 This Repository is a part of my online Data Science Portfolio.
 
@@ -7,11 +11,11 @@ It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervis
 
 Current and most active Projects!
 
-1_CLASSIFICATION ------ (Recent and still on going)
+1_CLASSIFICATION ------ Most Recent and Completed Projects
 
-2_LINEAR REGRESSION ------(Recent and still on going) - Most up to date!
+2_LINEAR REGRESSION ------ Most Recent and Completed Project
 
-3_SUPPORT VECTOR MACHINES ------ (Recent and still on going)
+3_SUPPORT VECTOR MACHINES ------ Ongoing Still busy Optimizing Project
 
 The Below Projects are in draft version and still need polishing! After completion it will move up to the CURRENT Projects!
 
@@ -75,6 +79,36 @@ Python 3
 Pandas, Numpy, Matplotlib, Seaborn, sklearn, Tensorflow 2.0 and Keras
 Jupyter Notebook
 
+Book References:
+
+Book references used for these projects:
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+ISBN-13: 9781492032649
+ISBN-10: 1492032646
+Author: Géron, Aurélien
+Edition: 2
+Binding: Paperback
+Publisher: O'Reilly Media
+Published: October 2019
+
+
+The Hundred-Page Machine Learning Book
+ISBN-13: 9781999579500
+ISBN-10: 199957950X
+Author: Burkov, Andriy
+Binding: Paperback
+Publisher: Andriy Burkov
+Published: January 2019
+
+
+Machine Learning Engineering
+ISBN-13: 9781999579579
+ISBN-10: 1999579577
+Author: Burkov, Andriy
+Binding: Paperback
+Publisher: True Positive Inc.
+Published: September 2020
 
 Needs of these project:
 
