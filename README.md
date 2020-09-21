@@ -7,7 +7,7 @@ Repository of all ML Projects:
 
 This Repository is a part of my online Data Science Portfolio.
 
-It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervised and Unsupervised Learning -- TensorFlow and Keras still in early Phase! Here are the current projects
+It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervised and Unsupervised Learning -- TensorFlow and Keras still in early Phase! Here are the current projects. I am making use of various text books see link below and using them as part of learning process some of the code I used are from the book  and it contains my interpretation as well and summaries from these authors. 
 
 Current and most active Projects!
 
