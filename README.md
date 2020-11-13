@@ -1,3 +1,11 @@
+CURRENTLY IN TRAINING --- SAP BW/BI / 4HANA course ends (16.01.2021) I will continue on my ML projects and from time to time update it as well. 
+
+For potential employees please see projects below: 
+
+Project dataset summary:
+
+Ecommerce, Advertising data, Insurance, USA housing predictions, MINST, IRIS, Kyphosis, Loan Data (German), Colleage Data, Mak_blobs, Unlabelled data, Titanic data
+
 # ML-Projects
 Repository of all ML Projects:
 
@@ -12,6 +20,9 @@ It is mainly Machine Learning Projects using Python -- Supervised, Semi-Supervis
 Current and most active Projects!
 
 1_CLASSIFICATION ------ Most Recent and Completed Projects
+
+
+
 
 2_LINEAR REGRESSION ------ Most Recent and Completed Project
 
