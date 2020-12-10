@@ -1,4 +1,6 @@
-CURRENTLY IN TRAINING --- SAP BW/BI / 4HANA course ends (16.01.2021) I will continue on my ML projects and from time to time update it as well. 
+CURRENTLY IN TRAINING --- SAP BW/BI / 4HANA with ABAP course ends (16.01.2021) 
+
+I will continue on my ML projects and from time to time update it as well. 
 
 For potential employees please see projects below: 
 
